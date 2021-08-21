@@ -30,7 +30,7 @@ cascade:
     show_author_byline: false
     show_post_date: false
     show_sidebar_adunit: false
-    text_contents_label: On this page
+    text_contents_label: Sub-topics
     text_series_label: Session Topics
     title: Class Sessions
 ---
