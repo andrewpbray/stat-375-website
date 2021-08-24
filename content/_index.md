@@ -5,7 +5,7 @@ action_type: text
 description: Welcome to Stat-375 at UC Berkeley, Fall 2021. We're glad you're here.
 image_left: true
 images:
-- img/minard.png
+- img/stat-375-hex.png
 show_action_link: false
 show_social_links: false
 subtitle: STAT 375, UC Berkeley, Fall 2021
