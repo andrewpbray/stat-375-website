@@ -8,14 +8,14 @@ title: Contributors
 
 Thank you to all the folks who have helped build Stat 375!
 
-+ Andrew Bray ()
++ Andrew Bray
 
-+ Ani Adhikari ()
++ Ani Adhikari
 
-+ Isaac Schmidt ()
++ Isaac Schmidt
 
-+ Jennifer Shih ()
++ Jennifer Shih
 
-+ Ananya Raghavan ()
++ Ananya Raghavan
 
-+ Anna Nguyen ()
++ Anna Nguyen
