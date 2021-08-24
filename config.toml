@@ -105,12 +105,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Syllabus"
     title = "Syllabus"
-    url = "/blog/"
+    url = "/syllabus/"
     weight = 2
   [[menu.header]]
     name = "Resources"
-    title = "Project Portfolio"
-    url = "/project/"
+    title = "Resources"
+    url = "/resources/"
     weight = 3
 
   # Configure footer
