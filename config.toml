@@ -107,11 +107,6 @@ enableEmoji = true
     title = "Syllabus"
     url = "/syllabus/"
     weight = 2
-  [[menu.header]]
-    name = "Resources"
-    title = "Resources"
-    url = "/resources/"
-    weight = 3
 
   # Configure footer
   [[menu.footer]]
