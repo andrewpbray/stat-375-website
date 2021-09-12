@@ -11,6 +11,7 @@ dark_gray <- "#404040"
 header_font <- xaringanthemer::google_font("Bitter", "300")
 text_font   <- xaringanthemer::google_font("Commissioner")
 code_font   <- xaringanthemer::google_font("Fira Mono")
+adage_font  <- xaringanthemer::google_font("Amatic SC", "Bold", "700")
 
 # set ggplot2 theme
 theme_stat375 <- theme_gray() +
@@ -27,6 +28,7 @@ xaringanthemer::style_mono_accent(
     header_font_google = header_font,
     text_font_google   = text_font,
     code_font_google   = code_font,
+    extra_fonts = list(adage_font),
     extra_css = list(".pull-left-wide" = list("width" = "70%",
                                               "float" = "left"),
                      ".pull-right-narrow" = list("width" = "27%",
@@ -46,5 +48,7 @@ xaringanthemer::style_mono_accent(
                                     "margin-bottom"    = "6px",
                                     "margin-top"       = "6px",
                                     "border-left"      = paste("solid", "5px", yellow),
-                                    "background-color" = paste0(yellow, 50)))
+                                    "background-color" = paste0(yellow, 50)),
+                     ".adage" = list("font-size" = "150%",
+                                     "font-family" = "Amatic SC"))
 )
