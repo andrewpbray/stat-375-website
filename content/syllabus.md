@@ -36,6 +36,9 @@ Out-of-class communication for this course will be held on [Ed](https://edstem.o
 
 You will be turning in weekly assignments through bCourses. This is also the platform where your assignments will be graded, so you can return there to get feedback on your work.
 
+### Grading
+
+This course is P/NP. A passing grade indicates that you have attended class regularly, submitted weekly assignment, and joined in two sets of teaching observations. BIT ABOUT  MID SEMSETSER check in conversation. focus on their experience of teaching so far, only discuss assignments if need be. If life circumstances make you able to attend class or submit assignments, please send a private message to the instructors over Ed.
 
 ## Policies
 
