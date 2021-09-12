@@ -49,6 +49,6 @@ xaringanthemer::style_mono_accent(
                                     "margin-top"       = "6px",
                                     "border-left"      = paste("solid", "5px", yellow),
                                     "background-color" = paste0(yellow, 50)),
-                     ".adage" = list("font-size" = "150%",
+                     ".adage" = list("font-size" = "200%",
                                      "font-family" = "Amatic SC"))
 )
