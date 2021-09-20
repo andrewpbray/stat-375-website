@@ -38,6 +38,7 @@ xaringanthemer::style_mono_accent(
                      ".pull-right-wide" = list("width" = "70%",
                                                "float" = "right"),
                      ".mini" = list("font-size" = "65%"),
+                     ".huge" = list("font-size" = "200%"),
                      ".cite" = list("vertical-align" = "bottom",
                                     "font-size" = "50%",
                                     "text-align" = "right"),
@@ -49,6 +50,6 @@ xaringanthemer::style_mono_accent(
                                     "margin-top"       = "6px",
                                     "border-left"      = paste("solid", "5px", yellow),
                                     "background-color" = paste0(yellow, 50)),
-                     ".adage" = list("font-size" = "200%",
+                     ".adage" = list("font-size" = "250%",
                                      "font-family" = "Amatic SC"))
 )
