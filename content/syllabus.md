@@ -6,21 +6,24 @@ layout: single
 show_title_as_headline: true
 ---
 
-The primary goal of this course is to prepare first-time GSI appointments with the skills and resources to become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and others not?
+The primary goal of this course is to prepare first-time GSI appointments with the skills and resources to become more confident, efficient, and effective teachers. It aims to build in students a curiosity to persistently question their practice: Why am I teaching this particular topic? What is the most important thing that my students learn? How do I know if my students have learned it? Why have I chosen to teach it in the this manner? Why are certain students engaged and succeeding and others not?
 
 There are three integral elements to this course. In person **class meetings** are the core of the experience, when you will encounter new ideas and discuss them in the context of your current teaching. Weekly **assignments** are an opportunity to reflect on the ideas discussed in class as well as readings. **Teaching observations** will occur twice during the semester and give you the opportunity to observe a different classroom environment than your own and receive feedback about your own teaching.
 
 ## Topics
 
-- Conducting your first class
+- Welcome to class
+- How we think
+- Planning your lesson
+- Observing and being observed
+- Creating an inclusive classroom
+- Creating an equitable classroom
 - Where your students are coming from
-- Engaging students
 - How to teach without lecturing
-- Lesson planning
 - Teaching as a member of a team
 - The classroom as a social space
 - Teaching case studies with a social context
-- Assessment
+- Assessments
 
 ## Resources
 
@@ -38,7 +41,7 @@ You will be turning in weekly assignments through bCourses. This is also the pla
 
 ### Grading
 
-This course is P/NP. A passing grade indicates that you have attended class regularly, submitted weekly assignment, and joined in two sets of teaching observations. BIT ABOUT  MID SEMSETSER check in conversation. focus on their experience of teaching so far, only discuss assignments if need be. If life circumstances make you able to attend class or submit assignments, please send a private message to the instructors over Ed.
+This course is P/NP. A passing grade indicates that you have attended class regularly, submitted weekly assignment, and joined in two sets of teaching observations. Mid-semester, we will schedule short one-on-one meetings to discuss how your teaching is going.
 
 ## Policies
 
